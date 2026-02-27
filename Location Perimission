@@ -1,0 +1,99 @@
+Background Location Permission Justification
+
+Business Mobile Street
+
+Core Functionality Requiring Background Location
+
+The application Business Mobile Street is a professional B2B mobile sales tool used by authorized sales representatives of client companies.
+
+Background location access is required to support the following core business functions:
+
+Continuous route tracking of sales representatives during working hours
+
+Verification of customer visit locations
+
+Recording visit timestamps and geolocation for audit purposes
+
+Monitoring field activity for operational and commercial management
+
+Supporting on-the-road invoicing and visit validation
+
+Without background location access, the employer company would not be able to:
+
+Accurately track sales routes
+
+Confirm field visits
+
+Maintain reliable visit history
+
+Ensure operational transparency
+
+Therefore, background location access is essential to the app’s primary business purpose.
+
+How Location Data Is Collected
+
+Location is collected only for authenticated and authorized users.
+
+Tracking occurs strictly within professional use.
+
+Location may be collected even when the app is running in the background, in order to ensure uninterrupted route monitoring.
+
+Tracking is limited to working sessions and company-defined operational requirements.
+
+User Transparency & Disclosure
+
+Before collecting background location data:
+
+The application displays a clear in-app disclosure.
+
+Users are informed that their location will be collected in the background.
+
+Users must explicitly grant location permission through the system permission dialog.
+
+The disclosure clearly explains:
+
+What data is collected (precise location)
+
+When it is collected (including background)
+
+Why it is collected (route tracking & visit validation)
+
+How it is used (business monitoring only)
+
+Data Usage Limitations
+
+Location data is:
+
+Used strictly for business and operational purposes
+
+Not sold or shared for advertising
+
+Not used for profiling outside professional activity
+
+Accessible only to authorized personnel of the client company
+
+Data Security Measures
+
+We implement:
+
+Encrypted transmission (HTTPS/TLS)
+
+Role-based access control
+
+Authentication mechanisms
+
+Secure server storage
+
+Logging and audit controls
+
+Compliance Statement
+
+The application complies with:
+
+GDPR (EU Regulation 2016/679)
+
+Applicable Greek labor and tax legislation
+
+Google Play Location Permission Policy
+
+Background location is requested solely because it is critical to the app’s core functionality as a professional field sales management system.
